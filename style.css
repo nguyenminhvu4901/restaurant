@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    border:0;
+    box-sizing:border-box ;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.header{
+    
+    
+    width:100%;
+}
+
+.header a{
+    float: right;
+    margin:10px;
+    color:red;
+    text-decoration: none;
+}
+
+.header .logo{
+    height:30px;
+    
+}
+
+.search{
+    background-image: url(https://media.discordapp.net/attachments/885408609608036352/887973188791832606/bg.jpg?width=1200&height=481);
+    height:300px;
+    width:100%;
+    text-align:center;
+    padding: 130px ;
+}
+
+.image{
+    text-align: center;
+    height: 400px;
+    width:100%;
+}
+
+.menu
+{
+    background-color:#ececec;
+    height: 700px;
+    width: 100%;
+    margin:1%;
+    padding:2%;
+    float:left;
+
+}
+
+.menu ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu ul li{
+    list-style: none;
+}
+
+.menu ul li img{
+    float:left;
+    margin: 15px;
+}
+
+.menu .cl01{
+    background-color:white;
+    margin:1%;
+    padding:2%;
+    float:left;
+    width: 760px;
+    
+}
+
+.ragiua
+{
+    text-align: center;
+}
+
+.log{
+   
+    text-align: center;
+    
+}
+.footer{
+    text-align: center;
+    height:50px;
+    width: 100%;
+}
